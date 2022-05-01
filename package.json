@@ -1,0 +1,12 @@
+{
+  "name": "projct_audio3d",
+  "version": "0.0.0",
+  "description": "web-audio API, THREE JS, HTML, CANVAS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./public/main.js"
+  },
+  "author": "felipcode",
+  "license": "ISC"
+}
